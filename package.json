@@ -1,0 +1,1 @@
+{"description":"The World in One Day — Sunday 22 November 2026. 35 stories, 7 regions, one image.","devDependencies":{"playwright-core":"^1.65.1"},"license":"MIT","main":"main.ts","name":"news-image-20261122-v7","private":true,"scripts":{"build":"npm run render && node main.ts","render":"node scripts/render.mjs"},"type":"module","version":"1.0.0"}
